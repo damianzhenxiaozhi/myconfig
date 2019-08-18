@@ -1,0 +1,16 @@
+# ignore everything
+/*
+/*/
+
+# except:
+!/i3/
+!/alacritty/
+!/shadowsocks/
+!/.colemakkbmap
+!/.xprofile
+!/.Xresources
+!/.zshrc
+!/.zshenv
+!/installSoftware.sh
+!/.gitignore
+!/README.md

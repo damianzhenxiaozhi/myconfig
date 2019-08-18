@@ -1,0 +1,12 @@
+{
+    "server":"34.85.17.18",
+    "server_port":10086,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"",
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open": false,
+    "workers": 1,
+    "prefer_ipv6": false
+}
