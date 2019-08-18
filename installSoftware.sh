@@ -2,8 +2,14 @@
 sudo pacman -S zsh
 # oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-# terminal keyMapping executionMenu desktop desktopWallPaper desktopRender theme fastStart
+# terminal keyMapping executionMenu desktop desktopWallPaper desktopRender themeManager fastStart
 sudo pacman -S alacritty xorg dmenu feh variety compton lxappearance albert
+# fonts
+sudo pacman -S powerline-fonts
+# gcc make cmake
+# sudo pacman -S gcc make cmake
+# openjdk maven
+# sudo pacman -S jdk8-openjdk maven
 # editor
 sudo pacman -S vim
 # fileManager
