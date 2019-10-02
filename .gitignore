@@ -13,4 +13,5 @@
 !/.zshenv
 !/installSoftware.sh
 !/.gitignore
+!/.ideavimrc
 !/README.md
