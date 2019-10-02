@@ -7,7 +7,7 @@ sudo pacman -S alacritty xorg dmenu feh variety compton lxappearance albert
 # gcc make cmake
 # sudo pacman -S gcc make cmake
 # openjdk maven
-# sudo pacman -S jdk8-openjdk maven
+sudo pacman -S jdk8-openjdk maven
 # editor
 sudo pacman -S vim
 # fileManager
