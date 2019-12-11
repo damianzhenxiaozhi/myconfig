@@ -31,4 +31,4 @@ sudo pacman -S netease-cloud-music
 # game
 # sudo pacman -S steam
 # office
-# sudo pacman -S libreoffice
+# sudo pacman -S libreoffice-still
