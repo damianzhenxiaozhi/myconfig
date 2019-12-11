@@ -3,7 +3,7 @@ sudo pacman -S zsh
 # oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 # terminal keyMapping executionMenu desktop desktopWallPaper desktopRender themeManager fastStart
-sudo pacman -S alacritty xorg dmenu feh variety compton lxappearance albert
+sudo pacman -S alacritty xorg dmenu feh variety picom lxappearance albert
 # gcc make cmake
 # sudo pacman -S gcc make cmake
 # openjdk maven
@@ -30,3 +30,5 @@ sudo pacman -S netease-cloud-music
 # sudo pacman -S virtualbox
 # game
 # sudo pacman -S steam
+# office
+# sudo pacman -S libreoffice
